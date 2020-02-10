@@ -1,4 +1,3 @@
-# SpringBoot_0
 
 # Steps to run the project
 * Create a Maven Project
